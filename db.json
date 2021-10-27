@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+  "users": {
+    "lukasz": {
+        "userId": 1
+     },
+     "aga": {
+         "userId":2
+      }
+  }
+}
