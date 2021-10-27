@@ -9,11 +9,15 @@
     "name": "typicode"
   },
   "users": {
-    "lukasz": {
-        "userId": 1
+    "user1": {
+        "userId": 1,
+        "name": "aga",
+        "email": "aga@gmail.com"
      },
-     "aga": {
-         "userId":2
+     "user2": {
+         "userId":2,
+         "name": "lukasz",
+         "email": "lukasz@gmail.com"
       }
   }
 }
