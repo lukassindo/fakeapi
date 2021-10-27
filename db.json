@@ -19,5 +19,18 @@
          "name": "lukasz",
          "email": "lukasz@gmail.com"
       }
+  },
+  "users2": {
+    "user3": {
+        "userId": 3,
+        "name": "aga3",
+        "email": "aga4@gmail.com"
+     },
+     "user4": {
+         "userId": 3,
+         "name": "lukasz4",
+         "email": "lukasz4@gmail.com"
+      }
   }
+  
 }
